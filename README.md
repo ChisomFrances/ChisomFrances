@@ -9,8 +9,6 @@
 
 🔍 I enjoy transforming complex data into meaningful insights using Python, SQL, Power BI, SAP Business Objects and Excel.
 
-💡 I aim to build solutions that promote environmental sustainability and support data-driven decision-making, one line of code at a time.
-
 📚 Always learning. Always growing.
 
 🤝 Let’s connect and collaborate - [chisom.fn@gmail.com](mailto:chisom.fn@gmail.com)
